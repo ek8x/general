@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Several would tree.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

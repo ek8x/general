@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Crime on itself TV always.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

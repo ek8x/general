@@ -11,3 +11,6 @@ print("Hello, World!")
 
 # Team central reduce official discover.
 print("Hello, World!")
+
+# Structure produce task action.
+print("Hello, World!")

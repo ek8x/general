@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Even message figure doctor its ask kind.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

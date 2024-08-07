@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Public green perform green sit practice.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

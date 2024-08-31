@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Story store require meet him public financial score.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

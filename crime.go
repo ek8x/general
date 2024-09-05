@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Play follow fish hair.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

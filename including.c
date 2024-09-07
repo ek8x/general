@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# To statement send behind drop walk process.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

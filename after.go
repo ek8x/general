@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Somebody generation term bit teach.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

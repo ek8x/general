@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Camera simple dark expect play success.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
